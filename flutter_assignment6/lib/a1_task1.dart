@@ -20,7 +20,7 @@ class A1Task1 extends StatelessWidget {
 
                 
           child: Column(
-            mainAxisSize: MainAxisSize.min, //! to make the column take only the space it needs
+            mainAxisSize: MainAxisSize.min, 
             children: [
               Text("Shourav Debnath"),
               Text("City: Sylhet"),
